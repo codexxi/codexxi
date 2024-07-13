@@ -1,5 +1,6 @@
-## student, Java lover, always learning
-## PT-BR, EN.
+## information systems student, always learning
+## PT-BR, EN
+## contact: codingdan@proton.me
 
 
 <!--
