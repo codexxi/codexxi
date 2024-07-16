@@ -1,5 +1,4 @@
-## information systems student, always learning
-## PT-BR, EN
+## Estudante de Sistemas de Informação, dev Java e Angular
 ## contact: codingdan@proton.me
 
 
