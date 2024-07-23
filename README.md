@@ -10,5 +10,5 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Trabalho principalm
 
 ### Contato:
 
-[![Email](https://img.shields.io/badge/Email-joaosilva@gmail.com-red?style=flat-square&logo=gmail)](mailto:codingdan@proton.me)
+[![Email](https://img.shields.io/badge/Email-codingdan@proton.me-red?style=flat-square&logo=gmail)](mailto:codingdan@proton.me)
 
